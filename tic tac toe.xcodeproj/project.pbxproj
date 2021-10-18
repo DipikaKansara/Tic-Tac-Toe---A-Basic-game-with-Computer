@@ -16,6 +16,7 @@
 		DF002FFF271CFD3E001F1621 /* tic_tac_toeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF002FFE271CFD3E001F1621 /* tic_tac_toeTests.swift */; };
 		DF003009271CFD3E001F1621 /* tic_tac_toeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF003008271CFD3E001F1621 /* tic_tac_toeUITests.swift */; };
 		DF00300B271CFD3E001F1621 /* tic_tac_toeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF00300A271CFD3E001F1621 /* tic_tac_toeUITestsLaunchTests.swift */; };
+		DF003018271CFF57001F1621 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF003017271CFF57001F1621 /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DF003004271CFD3E001F1621 /* tic tac toeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "tic tac toeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DF003008271CFD3E001F1621 /* tic_tac_toeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tic_tac_toeUITests.swift; sourceTree = "<group>"; };
 		DF00300A271CFD3E001F1621 /* tic_tac_toeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tic_tac_toeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DF003017271CFF57001F1621 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				DF002FF0271CFD3E001F1621 /* Assets.xcassets */,
 				DF002FF2271CFD3E001F1621 /* LaunchScreen.storyboard */,
 				DF002FF5271CFD3E001F1621 /* Info.plist */,
+				DF003017271CFF57001F1621 /* HomeViewController.swift */,
 			);
 			path = "tic tac toe";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				DF002FEC271CFD3D001F1621 /* ViewController.swift in Sources */,
 				DF002FE8271CFD3D001F1621 /* AppDelegate.swift in Sources */,
 				DF002FEA271CFD3D001F1621 /* SceneDelegate.swift in Sources */,
+				DF003018271CFF57001F1621 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
